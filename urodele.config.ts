@@ -7,7 +7,7 @@ export const config = {
   },
   head: {
     title: "jonnyan404 の blog",
-    brand: "Urodele",
+    brand: "jonnyan404 の blog",
     description: "A self-owned full-static blog system",
   },
   footer: {
