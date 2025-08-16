@@ -38,6 +38,7 @@
     "jsx-dom": "^8.1.5",
     "lowlight": "^3.1.0",
     "octokit": "^4.0.2",
+    "prosemirror-model": "^1.25.0",
     "tippy.js": "^6.3.7",
     "typescript": "^5.6.3"
   },
